@@ -1,0 +1,23 @@
+{
+  "name": "facebook-event-crawler",
+  "version": "1.0.0",
+  "description": "\"A Facebook event crawler\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john29917958/Facebook-Event-Crawler.git"
+  },
+  "author": "\"John Wang\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/john29917958/Facebook-Event-Crawler/issues"
+  },
+  "homepage": "https://github.com/john29917958/Facebook-Event-Crawler#readme",
+  "dependencies": {
+    "fbgraph": "^1.2.0",
+    "mongodb": "^2.1.18"
+  }
+}
